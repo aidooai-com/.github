@@ -39,8 +39,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📫 Contact Us
 
 For questions, feedback, or collaboration opportunities, reach out to us:  
-- **Email**: [info@aidoo.com](mailto:info@aidoo.com)  
-- **Website**: [aidooai.com](http://aidooai.com/) 
+- **Email**: [info@aidoo.chat](mailto:info@aidoo.chat)  
+- **Website**: [aidoo.chat](http://aidoo.chat/) 
 
 ---
 
